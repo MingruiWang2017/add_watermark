@@ -3,6 +3,14 @@
 为图片添加全屏水印
 
 ---
+
+## 安装依赖
+
+工具使用需要安装 pillow,直接安装：`pip install pillow`
+
+或者 `pip install -r requirements.txt` 
+
+---
 ## 使用方法
 
 ### 查看帮助信息
