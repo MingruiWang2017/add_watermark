@@ -70,6 +70,10 @@ $ python add_watermark.py --new_image_name="2.jpg" --text_color="#0000FF" --font
 $ python add_watermark.py --photo_angle=90 --new_image_name="3.jpg" --text_alpha=0.3 --text_color="#22FF22" --font_path="./fonts/简卡通.TTF" ./images/2.jpg "我可以 陪你去看星星"
 ```
 
+原图片：
+
+![](images/2.jpg)
+
 旋转后的水印图片：
 
-![旋转后的水印图片](./out_images/2_with_watermark.jpg)
+![旋转后的水印图片](./out_images/3.jpg)
